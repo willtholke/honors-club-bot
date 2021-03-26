@@ -61,4 +61,4 @@ async def on_member_join(member):
     )
 
 
-client.run('ODI0NzkwNDc2NTMxMDQwMzA3.YF0f_Q._YzQvLC6hM6DMdyH8vaTPbHuAf0')
+client.run('TOKEN') #bot token
